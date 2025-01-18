@@ -16,5 +16,15 @@ As a 7th semester student majoring in Informatics Engineering at the Indonesian 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ihsanxyz&icon=6&color=4)](https://visitcount.itsvg.in)
-
+<!-- snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+<!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
+</div>
+<br>
+<div align="left">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
